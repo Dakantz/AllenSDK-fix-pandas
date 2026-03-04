@@ -42,7 +42,7 @@ dependencies = [
     "nest_asyncio",
     "numpy",
     "packaging",
-    "pandas>=1.5.3,<3",
+    "pandas",
     "psycopg2-binary",
     "pynrrd",
     "pynwb<3",
